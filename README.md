@@ -9,7 +9,7 @@
   <a href=><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></a>
   <a href=><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/></a>
   <a href=><img width="48" height="48" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/></a>
-  <a href=><img width="48" height="48" src="https://img.icons8.com/fluency/48/nodejs-logo.png" alt="nodejs-logo"/></a>
+  <a href=><img width="48" height="48" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000"/></a>
    <a href=><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
 </p>
 
