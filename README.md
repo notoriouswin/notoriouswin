@@ -5,7 +5,7 @@
   <img height="200" align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=notoriouswin&langs_count=8&layout=compact&theme=gotham&card_width=150" />
 </a>
 
-<img align="left" height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=notoriouswin&theme=gotham"/>
+<img align="center" height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=notoriouswin&theme=gotham"/>
 
 ---
 
