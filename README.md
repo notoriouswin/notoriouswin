@@ -7,7 +7,9 @@
 
 <img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=notoriouswin&theme=gotham"/>
 <!-- <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=notoriouswin&theme=onestar&no-frame=true&title=Stars,Followers,Commits&column=-1"/> -->
+<br>
 
+<h2>👾linguagens e Tecnologias</h2>
 <p align="left">
   <a href=><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></a>
   <a href=><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></a>
