@@ -1,5 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-<h2 align="center" font-family="Poppins">👽 Matheus Bessa - Front-end Developer </h2>
+<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2>
 
 <div align="center">
   <p>My name is Matheus Bessa, I'm 21 years old and I live in Brazil in the city of São Paulo SP</p>
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <h3>📊Number of visits to the profile📊</h3>
+  <h3>📊NUMBER OF VISITS TO THE PROFILE</h3>
   <img src="https://profile-counter.glitch.me/notoriouswin/count.svg?"  />
 </div>
 
