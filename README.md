@@ -32,11 +32,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=notoriouswin&theme=onestar&column=3&row=1&margin-w=2&margin-h=0&no-bg=false&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
-<div align="center">
-  <h3>NUMBER OF VISITS TO THE PROFILE</h3>
-  <img src="https://profile-counter.glitch.me/notoriouswin/count.svg?"  />
-</div>
-
 ###
 
 
