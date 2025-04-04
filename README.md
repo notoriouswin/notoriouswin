@@ -6,7 +6,7 @@
 </a>
 
 <img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=notoriouswin&theme=gotham"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=notoriouswin&theme=gothaml&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=notoriouswin&theme=dark&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 <p align="left">
   <a href=><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/></a>
@@ -16,13 +16,3 @@
   <a href=><img width="48" height="48" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000"/></a>
    <a href=><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
 </p>
-align="left"
-alt="Github stats"
-height="200"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriouswin&layout=donut&theme=gotham&custom_title=Tecnologias"
-/>
-</p>
-
-
-
