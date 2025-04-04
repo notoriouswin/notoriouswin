@@ -32,7 +32,7 @@
 </div>
 
 <picture>
-   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+   <img src="https://raw.githubusercontent.com/notoriouswin/notoriouswin/output/snake.svg" alt="Snake animation" />
 </picture>
 
 <div align="center">
