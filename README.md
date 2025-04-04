@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03F700&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Notorious+Win+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03F700&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Matheus+Bessa+)](https://git.io/typing-svg)
 
 ---
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03F700&width=435&lines=%F0%9F%A4%96+Linguagens+e+t%C3%A9cnologias+)](https://git.io/typing-svg)
@@ -23,7 +23,7 @@ align="left"
 alt="Github stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=notoriouswin&show_icons=true&theme=merko&incluide_all_commits=true&locale=pt-br"
+src="https://github-readme-stats.vercel.app/api?username=notoriouswin&show_icons=true&theme=gotham&incluide_all_commits=true&locale=pt-br"
 />
 
 <img
@@ -31,7 +31,7 @@ align="left"
 alt="Github stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriouswin&layout=donut&theme=merko&custom_title=Tecnologias"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriouswin&layout=donut&theme=gotham&custom_title=Tecnologias"
 />
 </p>
 
