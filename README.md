@@ -1,4 +1,4 @@
-<h2 align="center">🧑🏻‍💻 Matheus Bessa - Front-end Developer</h2>
+<h3 align="center">🧑🏻‍💻 Matheus Bessa - Front-end Developer</h3>
 
 <div align="center">
   <p>My name is Matheus Bessa, I'm 21 years old and I live in Brazil in the city of São Paulo SP</p>
@@ -9,6 +9,8 @@
   
   <p>I am prepared to face real challenges and continue to evolve in the area.</p>  
 </div>
+
+-----
 
 
 ###
