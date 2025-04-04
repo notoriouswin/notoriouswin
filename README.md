@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <h3>📊NUMBER OF VISITS TO THE PROFILE</h3>
+  <h3>NUMBER OF VISITS TO THE PROFILE</h3>
   <img src="https://profile-counter.glitch.me/notoriouswin/count.svg?"  />
 </div>
 
