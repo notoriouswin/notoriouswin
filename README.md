@@ -8,7 +8,7 @@
 <img align="left" height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=notoriouswin&theme=gotham"/>
 
 <p align="right">
-  ## 👾 Linguagens e Tecnologias
+  <h2> 👾 Linguagens e Tecnologias </h2>
   <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/></a>
   <a href="#"><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>
   <a href="#"><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="JavaScript"/></a>
