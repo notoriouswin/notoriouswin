@@ -1,4 +1,4 @@
-<h2 align="left">🧑🏻‍💻 Matheus Bessa - Front-end Developer</h2>
+<h2 align="center">🧑🏻‍💻 Matheus Bessa - Front-end Developer</h2>
 
 ###
 
