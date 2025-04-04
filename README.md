@@ -37,6 +37,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/notoriouswin/notoriouswin/output/pacman-contribution-graph.svg">
 </picture>
 
+<div>
+
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+</div>
+
 ###
 
 
