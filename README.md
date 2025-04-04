@@ -32,7 +32,7 @@
 </div>
 
 <picture>
-   <img src="https://raw.githubusercontent.com/notoriouswin/notoriouswin/output/snake.svg" alt="Snake animation" />
+   <img src="https://github.com/notoriouswin/github.com/notoriouswin/notoriouswin/edit/main/README.md/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <div align="center">
