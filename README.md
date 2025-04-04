@@ -1,4 +1,4 @@
-<h2 align="center">👽Matheus Bessa - Front-end Developer🖖🏻</h2>
+<h2 align="center">👽 Matheus Bessa - Front-end Developer </h2>
 
 <div align="center">
   <p>My name is Matheus Bessa, I'm 21 years old and I live in Brazil in the city of São Paulo SP</p>
