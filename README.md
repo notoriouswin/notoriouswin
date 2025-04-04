@@ -35,6 +35,9 @@
    <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
 </picture>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/notoriouswin/count.svg?"  />
+</div>
 
 ###
 
