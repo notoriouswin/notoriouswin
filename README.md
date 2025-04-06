@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/CSS3-122F2B?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/git-122F2B.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-122F2B?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-122F2B?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-122F2B?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-122F2B?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
