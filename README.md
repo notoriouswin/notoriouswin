@@ -1,15 +1,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2> <img src="bender.gif" height="100px" width="100px" align="right"> <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU5aTIzNndjMGxzYmRobHY3d242aXY5bDFwa2FrYnI2eXVhd2JucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/psmJf376CrS92Dy5wf/giphy.gif 
-height="100px" width="100px"   align="left">
+<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2> <img src="bender.gif" height="150px" width="150px" align="right">
 
-<div align="center">
-  <p>My name is Matheus Bessa, I'm 21 years old and I live in Brazil in the city of São Paulo SP</p>
+<div align="left">
+  <p align="justfy">My name is Matheus Bessa, I'm 21 years old and I live in Brazil in the city of São Paulo SP</p>
   
-  <p>I have 1 year of experience in personal projects and studies in the Front-End area.</p>
+  <p align="justfy">I have 1 year of experience in personal projects and studies in the Front-End area.</p>
   
-  <p>I am proficient in HTML, CSS and JavaScript, with a focus on developing responsive and functional interfaces.</p>
+  <p align="justfy">I am proficient in HTML, CSS and JavaScript, with a focus on developing responsive and functional interfaces.</p>
   
-  <p>I am prepared to face real challenges and continue to evolve in the area.</p>  
+  <p align="justfy">I am prepared to face real challenges and continue to evolve in the area.</p>  
 </div>
 
 -----
