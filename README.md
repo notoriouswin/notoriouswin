@@ -1,5 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2> <img src="bender.gif" height="100px" width="100px" align="right">
+<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2> <img src="bender.gif" height="100px" width="100px" align="right"> <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU5aTIzNndjMGxzYmRobHY3d242aXY5bDFwa2FrYnI2eXVhd2JucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/psmJf376CrS92Dy5wf/giphy.gif 
+height="100px" width="100px"   align="left">
 
 <div align="center">
   <p>My name is Matheus Bessa, I'm 21 years old and I live in Brazil in the city of São Paulo SP</p>
