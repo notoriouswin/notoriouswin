@@ -1,5 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2>
+<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2> <img src="bender.gif" height="100px" width="100px" align="right">
 
 <div align="center">
   <p>My name is Matheus Bessa, I'm 21 years old and I live in Brazil in the city of São Paulo SP</p>
@@ -9,8 +9,6 @@
   <p>I am proficient in HTML, CSS and JavaScript, with a focus on developing responsive and functional interfaces.</p>
   
   <p>I am prepared to face real challenges and continue to evolve in the area.</p>  
-
-  <img src="bender.gif" height="150px">
 </div>
 
 -----
