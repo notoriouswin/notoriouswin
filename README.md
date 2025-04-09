@@ -2,13 +2,13 @@
 <h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2> <img src="bender.gif" height="150px" width="150px" align="right">
 
 <div align="center">
-  <p align="justfy">My name is Matheus Bessa, I'm 21 years old and I live in Brazil in the city of São Paulo SP</p>
+  <h4 align="justfy">MY NAME IS MATHEUS BESSA, I'M 21 YEARS OLD AND I LIVE IN BRASIL IN THE CITY OF SÃO PAULO (SP)</h4>
   
-  <p align="justfy">I have 1 year of experience in personal projects and studies in the Front-End area.</p>
+  <h4 align="justfy">I HAVE 1 YEAR OF EXPERIENCE IN PERSONAL PROJECTS AND STUDIES IN THE FRONT-END AREA.</h4>
   
-  <p align="justfy">I am proficient in HTML, CSS and JavaScript, with a focus on developing responsive and functional interfaces.</p>
+  <h4 align="justfy">I AM PROFICIENT IN HTML, CSS AND JAVASCRIPT, WITH A FOCUS ON DEVELOPING RESPONSIVE AND FUNCTIONAL INTERFACES.</h4>
   
-  <p align="justfy">I am prepared to face real challenges and continue to evolve in the area.</p>  
+  <h4 align="justfy">I AM PREPARED TO FACE REAL CHALLENGES AND CONTINUE TO EVOLVE IN THE AREA.</h4>  
 </div>
 
 -----
