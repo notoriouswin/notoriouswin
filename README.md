@@ -28,8 +28,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notoriouswin&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notoriouswin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-   <img src="https://streak-stats.demolab.com?user=notoriouswin&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
-   <img src="https://github-profile-trophy.vercel.app?username=notoriouswin&theme=onestar&column=3&row=2&margin-w=2&margin-h=0&no-bg=false&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=notoriouswin&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
+  
+  <img src="https://github-profile-trophy.vercel.app?username=notoriouswin&theme=onestar&column=3&row=2&margin-w=2&margin-h=0&no-bg=false&no-frame=true" height="150" alt="trophy graph"  />
  </div>
 
 ###
