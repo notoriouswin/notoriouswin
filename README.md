@@ -3,13 +3,6 @@
 
 <div align="center">
   <img src="bender.gif" height="150px" width="150px" align="center">
-  <h4 align="justfy">My name is Matheus Bessa, I'm 21 years old and I live in Brazil, in the city of São Paulo (SP).</h4>
-  
-  <h4 align="justfy">I have 1 year of experience in personal projects and studies in the Front-End area.</h4>
-  
-  <h4 align="justfy">I am proficient in HTML, CSS and JavaScript, with a focus on developing responsive and functional interfaces.</h4>
-  
-  <h4 align="justfy">I am prepared to face real challenges and continue to evolve in the area.</h4>  
 </div>
 
 -----
