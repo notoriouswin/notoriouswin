@@ -1,7 +1,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2>
+<h2 align="center">👽 MATHEUS BESSA - FRONT-END DEVELOPER </h2> 
 
 <div align="center">
+  <img src="bender.gif" height="150px" width="150px" align="center">
   <h4 align="justfy">My name is Matheus Bessa, I'm 21 years old and I live in Brazil, in the city of São Paulo (SP).</h4>
   
   <h4 align="justfy">I have 1 year of experience in personal projects and studies in the Front-End area.</h4>
@@ -28,7 +29,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notoriouswin&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notoriouswin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-  <img src="bender.gif" height="150px" width="150px">
    <img src="https://streak-stats.demolab.com?user=notoriouswin&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
    <img src="https://github-profile-trophy.vercel.app?username=notoriouswin&theme=onestar&column=3&row=1&margin-w=2&margin-h=0&no-bg=false&no-frame=true" height="150" alt="trophy graph"  />
  </div>
