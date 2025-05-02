@@ -25,7 +25,9 @@
   <img src="https://img.shields.io/badge/TypeScript-122F2B?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-122F2B?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-122F2B.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="" />
+  <img src="https://img.shields.io/badge/Supabase-122F2B?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-122F2B?style=for-the-badge&logo=mysql&logoColor=white" />
+  ![VITE](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 </div>
 
 <div align="center">
