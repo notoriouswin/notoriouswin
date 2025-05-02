@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-122F2B.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-122F2B?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-122F2B?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-122F2B?style=for-the-badge&logo=Vite&logoColor=white" />
 </div>
 
 <div align="center">
