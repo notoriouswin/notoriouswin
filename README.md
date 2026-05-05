@@ -21,19 +21,6 @@
   <img src="https://img.shields.io/badge/git-122F2B.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-122F2B?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-122F2B?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-122F2B?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-122F2B?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-122F2B?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-122F2B.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-122F2B?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-122F2B?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-122F2B?style=for-the-badge&logo=Vite&logoColor=white" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notoriouswin&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notoriouswin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-   <img src="https://streak-stats.demolab.com?user=notoriouswin&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=notoriouswin&theme=onestar&column=3&row=1&margin-w=2&margin-h=0&no-bg=false&no-frame=true" height="150" alt="trophy graph"  />
-  
- </div>
