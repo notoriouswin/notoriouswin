@@ -6,7 +6,7 @@
     now fully focused on <strong>back-end development with Java</strong>.
   </p>
 
-  <a href="https://www.linkedin.com/in/notoriouswin/">
+  <a href="https://www.linkedin.com/in/notoriouswin/" text-decoration: none>
     <img src="https://img.shields.io/badge/LinkedIn-122F2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
