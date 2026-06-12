@@ -6,7 +6,7 @@
     now fully focused on <strong>back-end development with Java</strong>.
   </p>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/notoriouswin/">
     <img src="https://img.shields.io/badge/LinkedIn-122F2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/GitHub-122F2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/YOUR-INSTAGRAM-HERE">
+  <a href="https://instagram.com/zeroaojunior">
     <img src="https://img.shields.io/badge/Instagram-122F2B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://youtube.com/@YOUR-CHANNEL-HERE">
+  <a href="https://youtube.com/@mattheuszbessa">
     <img src="https://img.shields.io/badge/YouTube-122F2B?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
@@ -29,13 +29,13 @@
 
 I built a solid front-end base with HTML, CSS, JavaScript, Sass and Tailwind. Now I've made a deliberate choice to transition to back-end — currently deep in Java, OOP and algorithms, with Spring Boot, REST APIs and SQL on the roadmap.
 
-I also document this entire journey — from zero to junior dev — on [Instagram](https://instagram.com/YOUR-INSTAGRAM-HERE) and [YouTube](https://youtube.com/@YOUR-CHANNEL-HERE).
+I also document this entire journey — from zero to junior dev — on [Instagram](https://instagram.com/zeroaojunior) and [YouTube](https://youtube.com/@mattheuszbessa).
 
 - 📍 São Paulo, Brazil
 - 🔄 Transitioning front-end → back-end
 - 🎯 Current: Java, OOP, data structures
 - 📚 Next: Spring Boot, REST APIs, SQL
-- 🐧 Daily driver: Arch Linux — custom setup, [dotfiles here](https://github.com/notoriouswin/YOUR-DOTFILES-REPO)
+- 🐧 Daily driver: Arch Linux — custom setup, [dotfiles archlinux](https://github.com/notoriouswin/archlinux-mydotfile)
 
 ---
 
