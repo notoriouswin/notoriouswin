@@ -6,7 +6,7 @@
   
   <p align="left">I have 1 year of experience in personal projects and studies in the Front-End area.</p>
   
-  <p align="left">I am proficient in HTML, CSS and JavaScript, with a focus on developing responsive and functional interfaces.</p>
+  <p align="left">I am proficient in HTML, CSS and JavaScript, with a focus on developing responsive and functional interfaces.</p> 
   
   <p align="left">I am prepared to face real challenges and continue to evolve in the area.</p>  
 </div> 
