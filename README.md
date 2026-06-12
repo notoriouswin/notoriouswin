@@ -6,10 +6,10 @@
     now fully focused on <strong>back-end development with Java</strong>.
   </p>
 
-  <a style="text-decoration: none;" href="https://www.linkedin.com/in/notoriouswin/">
+  <a href="https://www.linkedin.com/in/notoriouswin/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-122F2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
+  &nbsp;
   <a href="https://github.com/notoriouswin">
     <img src="https://img.shields.io/badge/GitHub-122F2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
