@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bender.gif" width="140" alt="Bender animation" /><br/>
+  <img src="bender.gif" width="140" alt="Bender animation" /><br/> 
   <h1>Hi, I'm Matheus Bessa 👋</h1>
   <p>
     Developer from São Paulo, Brazil — solid front-end foundation,<br/>
