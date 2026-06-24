@@ -1,7 +1,7 @@
 <div align="center">
   <img src="bender.gif" width="140" alt="Bender animation" /><br/> 
   <h1>Hi, I'm Matheus Bessa 👋</h1> 
-  <p>
+  <p> 
     Developer from São Paulo, Brazil — solid front-end foundation,<br/>
     now fully focused on <strong>back-end development with Java</strong>.
   </p>
