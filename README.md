@@ -94,5 +94,6 @@ Além dos estudos, compartilho minha evolução como desenvolvedor nas redes soc
 - **Versionamento:** Git & GitHub
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=122F2B&height=120&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=122F2B&height=180&section=footer" alt="Footer"/>
+</div>
