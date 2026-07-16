@@ -28,13 +28,15 @@
 
 ---
 
-# 💻 Sobre
+## 💻 Sobre
 
-Sou desenvolvedor **Full Stack** apaixonado por tecnologia e por construir soluções que resolvem problemas reais.
+Meu nome é **Matheus Bessa** tenho 22 anos e comecei minha jornada na programação em **2021**, estudando **HTML, CSS e JavaScript**.
 
-Comecei minha jornada pelo **Front-end**, onde desenvolvi uma base sólida com HTML, CSS e JavaScript. Hoje meu foco está em aprofundar conhecimentos em **Java**, arquitetura de software e desenvolvimento Back-end, sem deixar de evoluir em todas as áreas do desenvolvimento.
+Ao longo do caminho, interrompi meus estudos algumas vezes, mas a vontade de trabalhar com tecnologia sempre me fez voltar. Hoje, decidi transformar esse objetivo em compromisso e seguir até o fim.
 
-Além dos estudos, compartilho minha evolução como desenvolvedor nas redes sociais, documentando projetos, aprendizados e desafios da minha jornada.
+Com uma base sólida em **Front-end**, decidi expandir meus conhecimentos para o **Back-end com Java**, com o objetivo de me tornar um **Desenvolvedor Full Stack** cada vez mais completo.
+
+Este GitHub reúne os projetos e aprendizados que fazem parte da minha evolução como desenvolvedor, enquanto busco minha primeira oportunidade na área de tecnologia.
 
 ---
 
