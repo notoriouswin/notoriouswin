@@ -4,7 +4,7 @@
 
 # Full Stack Developer         <img src="bender.gif" width="80" alt="Bender"/>
 
-> *"A motivação faz você começar. A disciplina e a constância fazem você chegar lá."*
+> *"A motivação faz você começar. A disciplina e a constância fazem você chegar no seu objetivo."*
 
 <br>
 
